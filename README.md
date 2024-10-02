@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning mechanical engineering
 - 💬 Ask me about High Power Rockets
 - ⚡ Fun fact: I don't know how to use GitHub yet
+- ⏲️ This is a new "clean" account, but I've been here since 2018
 
 <!--
 **Grininventor-temp/Grininventor-temp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
